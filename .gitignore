@@ -33,6 +33,9 @@ MANIFEST
 *.manifest
 *.spec
 
+# don't commit the dataset
+aws_dataset
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
